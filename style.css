@@ -1,0 +1,5 @@
+head {background-color: black}
+body {background-color: black}
+h1 {color: red; }
+p {color: white}
+ul {color: white; list-style-image: src="whitedot.jpg";}
